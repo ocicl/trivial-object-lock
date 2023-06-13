@@ -1,0 +1,10 @@
+* trivial-object-lock
+
+A Common Lisp library that allows locking access to any SYMBOL. (This is a mirror from GitLab)
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-object-lock.git   |
+| commit  | 3f15427  |
+| systems | trivial-object-lock |
+|---------+-------------------------------------------|
+
