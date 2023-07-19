@@ -4,6 +4,6 @@ A Common Lisp library that allows locking access to any SYMBOL. (This is a mirro
 
 |---------+----------------------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-object-lock.git |
-| commit  | 3f15427                                                  |
+| commit  | 8692d7b                                                  |
 | systems | trivial-object-lock                                      |
 |---------+----------------------------------------------------------|
